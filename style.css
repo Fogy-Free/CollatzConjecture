@@ -1,0 +1,44 @@
+body {
+    background-image: url('ThanksUniverse2b.png');
+    text-align: center;
+    gap: 1em;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: sienna;
+    font-size: 40px;
+    text-shadow: 0 0 2px orange;
+}
+input {
+    font-size: x-large;
+    color: orange;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    background: transparent;
+
+}
+input:focus {
+    outline: 2px solid cyan;
+    border-radius: 5px;
+}
+p {
+    color: orange;
+    font-size: 20px;
+    text-shadow: 0 0 2px sienna;
+}
+button {
+    font-size: x-large;
+    color: orange;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    background: transparent;
+}
+button:focus {
+    outline: 2px solid cyan;
+    border-radius: 5px;
+}
